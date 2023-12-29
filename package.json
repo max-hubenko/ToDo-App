@@ -1,0 +1,27 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Save and check off To Do items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max-hubenko/ToDo-App.git"
+  },
+  "author": "Max Hubenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max-hubenko/ToDo-App/issues"
+  },
+  "homepage": "https://github.com/max-hubenko/ToDo-App#readme",
+  "dependencies": {
+    "webpack": "^5.89.0"
+  },
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
